@@ -185,3 +185,6 @@ search.yahoo.com
 startpage.com
 www.startpage.com
 search.brave.com
+ecosia.org
+www.ecosia.org
+yandex.com
