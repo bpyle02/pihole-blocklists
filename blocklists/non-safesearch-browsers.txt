@@ -183,4 +183,5 @@ searx.zdechov.net
 search.zeroish.xyz
 search.yahoo.com
 startpage.com
+www.startpage.com
 search.brave.com
