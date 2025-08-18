@@ -188,3 +188,9 @@ search.brave.com
 ecosia.org
 www.ecosia.org
 yandex.com
+www.duckduckgo.com
+duckduckgo.com
+duck.com
+www.duck.com
+safe.duckduckgo.com
+www.safe.duckduckgo.com
